@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Microsoft Office Applications", "Microsoft Word", "Microsoft Exel", "Microsoft PowerPoint", "Data Entry"],
+        strings: ["Data Analysis", "Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Office Management as an office assistant"],
+        strings: ["Data Analysis", "Microsoft Word", "Microsoft Excel", "Microsoft PowerPoint"],
         typeSpeed: 100,
         backSpeed: 40,
         loop: true
